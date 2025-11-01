@@ -1,0 +1,4 @@
+id,roles,max_slots
+s1,surgeon;general,4
+s2,anesthetist,4
+s3,nurse,8

@@ -1,0 +1,4 @@
+id,age,temp,sbp,pain,needs_icu,needs_vent,location_x,location_y
+p1,82,39.0,140,8,1,0,2,2
+p2,34,36.6,118,1,0,0,5,5
+p3,55,38.5,150,6,0,0,7,3

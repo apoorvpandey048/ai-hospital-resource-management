@@ -1,0 +1,4 @@
+[
+  {"if": ["fever", "cough"], "then": ["possible_infection"]},
+  {"if": ["possible_infection", "high_wbc"], "then": ["bacterial_infection"]}
+]
